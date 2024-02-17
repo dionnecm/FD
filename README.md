@@ -7,3 +7,7 @@ Testando o exemplo para capturar os dados a partir de uma web cam. Está no arqu
 
 # Próximo passo
 Treinar uma CNN para reconhecimento facial tendo como exemplo o código em https://thinkingneuron.com/face-recognition-using-deep-learning-cnn-in-python/
+
+## face_recognition
+Tentar usar esta biblioteca para fazer a detecção de faces: https://github.com/ageitgey/face_recognition.
+Não funciona no windows.
